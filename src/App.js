@@ -205,7 +205,7 @@ function App() {
   ).length;
 
   return (
-    <div className="flex font-sans">
+    <div className="flex h-screen">
       {/* The NProgress progress bar will be automatically added to the top of the page */}
       <Sidebar
         topics={filteredTopics}
