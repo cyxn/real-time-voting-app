@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/real-time-voting-app/static/css/main.998db4ec.css",
+    "main.js": "/real-time-voting-app/static/js/main.f81c9b48.js",
+    "static/js/198.d3782b5f.chunk.js": "/real-time-voting-app/static/js/198.d3782b5f.chunk.js",
+    "static/js/453.d9950cbb.chunk.js": "/real-time-voting-app/static/js/453.d9950cbb.chunk.js",
+    "index.html": "/real-time-voting-app/index.html",
+    "main.998db4ec.css.map": "/real-time-voting-app/static/css/main.998db4ec.css.map",
+    "main.f81c9b48.js.map": "/real-time-voting-app/static/js/main.f81c9b48.js.map",
+    "198.d3782b5f.chunk.js.map": "/real-time-voting-app/static/js/198.d3782b5f.chunk.js.map",
+    "453.d9950cbb.chunk.js.map": "/real-time-voting-app/static/js/453.d9950cbb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.998db4ec.css",
+    "static/js/main.f81c9b48.js"
+  ]
+}
